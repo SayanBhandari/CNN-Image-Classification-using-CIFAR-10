@@ -1,3 +1,1 @@
-*.python linguist-detectable=true
-*.jupyter notebook linguist-detectable=false
-
+*.js linguist-language=Python
